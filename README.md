@@ -22,3 +22,4 @@
 
 * C#
 * Console Application
+  Студент: Шайнурова Карина
